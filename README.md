@@ -1,6 +1,7 @@
 # TareaLambdas
 En este proyecto se buscará evaluar las correctas validaciones, uso de lambdas, de cadenas y la complementación de todos estos elementos en diferentes problemas con cada uno diferentes soluciones y diferentes clases y métodos que deberemos importar y utilizar. 
 
+# Lista de los 10 métoodos:
 -> multiplicarElementos
 Se trata de un método encargado de tomar una lista y regresar con sus elementos multiplicados por un valor que recibe.
 
@@ -33,7 +34,7 @@ Se trata de un método que toma palabras y frecuencias y limita todas las frecue
 
 
 
-Instrucciones de compilacion:
+# Instrucciones de compilacion:
 1. Contar previamente con java openjdk 27 o superior.
 2. Descargar "cadenas.java", "numeros.java" y "Main.java" y colocarlos en una misma carpeta.
 3. Ejecutarlo con su IDE de confianza. O respectivamente:
@@ -49,11 +50,11 @@ Instrucciones de compilacion:
 
 
 
-Las salidas del programa se manejan de la siguiente manera:
+# Las salidas del programa se manejan de la siguiente manera:
 === Titulo del problema que se mostrara ===
 <Descripción de la forma en que se mostrará el programa>:
 Antes: <datos iniciales que se agregaron>
 Después: <datos al pasar por las condiciones dadas del problema>
 
-# En <Descripción de la forma en que se mostrará el programa> se da una breve descripción de que datos se ingresarán. Por ejemlo "Con 0", "Con lista vacía", "Con un null", etc.
+*En <Descripción de la forma en que se mostrará el programa> se da una breve descripción de que datos se ingresarán. Por ejemlo "Con 0", "Con lista vacía", "Con un null", etc.*
 
