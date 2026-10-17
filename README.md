@@ -4,6 +4,7 @@ En este proyecto se buscará evaluar las correctas validaciones, uso de lambdas,
 # Lista de los 10 métoodos:
 
 **-> multiplicarElementos**
+
 Se trata de un método encargado de tomar una lista y regresar con sus elementos multiplicados por un valor que recibe.
 
 **-> eliminarPorLetraOLongitud**
