@@ -1,7 +1,7 @@
 # TareaLambdas
 En este proyecto se buscará evaluar las correctas validaciones, uso de lambdas, de cadenas y la complementación de todos estos elementos en diferentes problemas con cada uno diferentes soluciones y diferentes clases y métodos que deberemos importar y utilizar. 
 
-# Lista de los 10 métoodos:
+# Lista de los 10 métoodos:\n
 -> multiplicarElementos
 Se trata de un método encargado de tomar una lista y regresar con sus elementos multiplicados por un valor que recibe.
 
