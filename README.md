@@ -50,14 +50,16 @@ Se trata de un método que toma palabras y frecuencias y limita todas las frecue
 2. Descargar "cadenas.java", "numeros.java" y "Main.java" y colocarlos en una misma carpeta.
 3. Ejecutarlo con su IDE de confianza. O respectivamente:
    Para ejecutar en cmd o Powershell de Windows, colocar estos 3 comandos por separado:
-     cd C:\ruta\a\tu\carpeta
-     javac -encoding UTF-8 Main.java
-     chcp 65001
-     java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 Main
+   
+     1. cd C:\ruta\a\tu\carpeta
+     2. javac -encoding UTF-8 Main.java
+     3. chcp 65001
+     4. java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 Main
   Para ejecutar en la terminal de Linux, colocar estos 3 comandos por separado:
-    cd /ruta/a/tu/carpeta
-    javac -encoding UTF-8 Main.java
-    java Main
+
+     1. cd /ruta/a/tu/carpeta
+     2. javac -encoding UTF-8 Main.java
+     3. java Main
 
 
 
