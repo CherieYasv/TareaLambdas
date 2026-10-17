@@ -55,9 +55,9 @@ Se trata de un método que toma palabras y frecuencias y limita todas las frecue
 
 <Descripción de la forma en que se mostrará el programa>:
 
-Antes: <datos iniciales que se agregaron>
+Antes: -datos iniciales que se agregaron-
 
-Después: <datos al pasar por las condiciones dadas del problema>
+Después: -datos al pasar por las condiciones dadas del problema-
 
 *En <Descripción de la forma en que se mostrará el programa> se da una breve descripción de que datos se ingresarán. Por ejemlo "Con 0", "Con lista vacía", "Con un null", etc.*
 
