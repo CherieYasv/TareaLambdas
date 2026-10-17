@@ -55,6 +55,7 @@ Se trata de un método que toma palabras y frecuencias y limita todas las frecue
      2. javac -encoding UTF-8 Main.java
      3. chcp 65001
      4. java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 Main
+ 
   Para ejecutar en la terminal de Linux, colocar estos 3 comandos por separado:
 
      1. cd /ruta/a/tu/carpeta
