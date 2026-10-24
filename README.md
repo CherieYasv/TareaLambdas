@@ -47,7 +47,7 @@ Se trata de un método que toma palabras y frecuencias y limita todas las frecue
 
 # Instrucciones de compilacion:
 1. Contar previamente con java openjdk 27 o superior.
-2. Descargar "cadenas.java", "numeros.java" y "Main.java" y colocarlos en una misma carpeta.
+2. Descargar el proyecto en una misma carpeta.
 3. Ejecutarlo con su IDE de confianza. O respectivamente:
    Para ejecutar en cmd o Powershell de Windows, colocar estos 3 comandos por separado:
    ```
